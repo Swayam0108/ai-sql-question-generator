@@ -311,5 +311,6 @@ if __name__ == "__main__":
     app.launch(
         show_error=True,
         ssr_mode=False,
-        theme=gr.themes.Soft(),
+        server_name="0.0.0.0",
+        server_port=7860,
     )
