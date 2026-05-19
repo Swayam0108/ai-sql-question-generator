@@ -168,7 +168,6 @@ def export_docx(output_text):
 
 with gr.Blocks(
     title="SQL Question Bank Generator",
-    theme=gr.themes.Soft(),       # Clean soft theme
 ) as app:
 
     # ── App header ──────────────────────────────────────────
@@ -312,4 +311,5 @@ if __name__ == "__main__":
     app.launch(
         show_error=True,
         ssr_mode=False,
+        theme=gr.themes.Soft(),
     )
