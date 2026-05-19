@@ -310,5 +310,6 @@ with gr.Blocks(
 
 if __name__ == "__main__":
     app.launch(
-        show_error=True,    # Show full errors in browser
+        show_error=True,
+        ssr_mode=False,
     )
