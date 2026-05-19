@@ -1,0 +1,10 @@
+﻿gradio
+pandas
+openpyxl
+psycopg2-binary
+sqlalchemy
+requests
+python-dotenv
+fpdf2
+python-docx
+groq
