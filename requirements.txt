@@ -1,5 +1,4 @@
-﻿gradio==5.29.0
-pandas
+﻿pandas
 openpyxl
 psycopg2-binary
 sqlalchemy
