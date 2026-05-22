@@ -1,6 +1,6 @@
 ﻿---
 title: SQL Question Bank Generator
-emoji: ??
+emoji: 🗄️
 colorFrom: blue
 colorTo: purple
 sdk: gradio
