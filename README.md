@@ -3,8 +3,8 @@ title: SQL Question Bank Generator
 emoji: 🗄️
 colorFrom: blue
 colorTo: purple
-sdk: gradio
-sdk_version: 6.14.0
+sdk: docker
+
 
 app_file: app.py
 pinned: false
