@@ -7,5 +7,5 @@ python-dotenv
 fpdf2
 python-docx
 groq
-gradio==4.44.1
-huggingface_hub==0.24.6
+gradio==6.14.0
+huggingface_hub==1.15.0
