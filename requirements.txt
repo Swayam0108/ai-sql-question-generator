@@ -1,4 +1,4 @@
-﻿pandas
+pandas
 openpyxl
 psycopg2-binary
 sqlalchemy
@@ -8,4 +8,4 @@ fpdf2
 python-docx
 groq
 gradio==6.14.0
-huggingface_hub==1.15.0huggingface_hub==0.23.4
+huggingface_hub==1.15.0
